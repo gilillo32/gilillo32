@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Software Engineering at Donostia, Basque Country and working on Industrial Monitoring at <a>ii40services</a>.<br>🌱 I’m currently learning Django Rest, Node and Express<br>
+🔭 I’m currently studying Software Engineering at Donostia, Basque Country and working on Industrial Monitoring at [ii40services](https://www.ii40services.com/).<br>🌱 I’m currently learning Django Rest, Node and Express<br>
 
 
 ## 🌐 Socials:
